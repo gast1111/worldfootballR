@@ -1,4 +1,4 @@
-#' Get fbref Player Match Logs
+#' Get  Player Match Logs
 #'
 #' Returns all match logs for a selected player, season and stat type
 #'
